@@ -1,7 +1,7 @@
 @extends('layout.main')
 
 @section('title')
-    Home Title
+    Ciriajasa Highway Construction Monitoring
 @endsection
 
 @section('content')

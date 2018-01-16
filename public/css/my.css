@@ -1,1 +1,60 @@
-/* No CSS *//*# sourceMappingURL=my.css.map */
+#logo {
+  height: 60px;
+  width: auto;
+}
+
+.own-navbar {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: white !important;
+}
+
+.own-navbar li {
+  padding: 0px 20px;
+}
+
+.own-navbar a {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.footer-container {
+  padding: 10px;
+  background-color: black;
+  color: white;
+}
+
+.footer-container .copyright {
+  text-align: center;
+}
+
+.footer-container .footer-list {
+  padding-left: 20px;
+}
+
+.footer-container h3 {
+  padding-right: 5px;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.footer-container ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.footer-container ul li {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.footer-container ul a {
+  color: white;
+  font-weight: bold;
+}
+
+.footer-container ul a:hover {
+  text-decoration: none;
+}
+/*# sourceMappingURL=my.css.map */

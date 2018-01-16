@@ -1,5 +1,7 @@
-<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="{{ route('home') }}">Ciriajasa</a>
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light own-navbar">
+    <a class="navbar-brand" href="{{ route('home') }}">
+        <img src="{{ URL::asset('img/logo.png') }}" id="logo" alt="Ciriajasa">
+    </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
